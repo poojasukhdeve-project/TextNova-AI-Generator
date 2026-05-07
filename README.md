@@ -106,7 +106,7 @@ http://127.0.0.1:5000
 Pooja Sukhdeve
 
 Master’s in Computer Science  
-Boston University Metropolitan College
+Boston University
 
 ---
 
